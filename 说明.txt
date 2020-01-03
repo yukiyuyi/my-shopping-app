@@ -1,0 +1,1 @@
+该系统使用了react和nodejs技术
